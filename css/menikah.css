@@ -245,6 +245,15 @@ html {
   
 }
 
+.main-content .section-lighter1 {
+  background: url("../image/back7.jpg") no-repeat;
+  padding: 80px 40px;
+
+ 
+  
+}
+
+
 .main-content .section-light.regular-section {
   padding-bottom: 80px;
 }
@@ -714,7 +723,7 @@ body.preloader-site {
 }
 
 .section-light {
-  background-image: url(../image/divider-flowers-leaves.png);
+  background-image: url(../image/divider-flowers-leaves1.png);
   background-position: bottom -30px center;
   background-repeat: no-repeat;
   background-size: initial;
