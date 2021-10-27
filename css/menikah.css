@@ -40,15 +40,12 @@ html {
 .hero {
  
   background: url("../image/back7.jpg") no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+ 
   color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;
 
 }
-
-
 
 .hero .title {
   font-family: 'Rouge Script', sans-serif;
@@ -241,14 +238,6 @@ html {
  
   
 }
-
-/* .main-content .section-lighter1 {
-  /* background: url("../image/back7.jpg") no-repeat; */
-  /* padding: 80px 40px; */
-  /* backdrop-filter: blur(100px); */
- 
-  
-} */
 
 
 .main-content .section-light.regular-section {
