@@ -33,7 +33,7 @@ html {
 }
 
 .a.navbar-item{
-  font-color: #996E6D;
+  color: #996E6D;
 }
 
 
@@ -45,21 +45,9 @@ html {
   color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;
-  /* filter: blur(8px);
-  -webkit-filter: blur(8px); */
+
 }
 
-.hero {
- 
-  background: url("../image/back7.jpg") no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  color: white;
-  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-  font-family: 'Raleway', sans-serif;
-  /* filter: blur(8px);
-  -webkit-filter: blur(8px); */
-}
 
 
 .hero .title {
@@ -69,6 +57,15 @@ html {
   font-size: 5rem;
   
   color: whitesmoke;
+}
+
+.hero .title1 {
+  font-family: 'Rouge Script', sans-serif;
+  font-weight: 700;
+  /* transform: rotate(-2deg); */
+  font-size: 5rem;
+  
+  color: black
 }
 
 .hero .subtitle {
@@ -394,12 +391,12 @@ vertical-align: middle;
   line-height: 25px;
   text-align: center;
   vertical-align: middle;
-  background: #c28285;
+ 
   color: whitesmoke;    
 }
 
 .footer p {
-  color: white;
+  color: black;
   font-weight: 50;
   font-size: 10pt;
   display: inline-block;
