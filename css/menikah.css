@@ -639,7 +639,7 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.3), rgba(48, 47, 47, 0.4)), url("../image/class.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("../image/class.png");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -647,7 +647,7 @@ body.preloader-site {
 }
 
 .foto2 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.3), rgba(48, 47, 47, 0.4)), url("../image/ccd.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(48, 47, 47, 0.4)), url("../image/ccd.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
