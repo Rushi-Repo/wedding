@@ -697,7 +697,7 @@ body.preloader-site {
   color: white;
   
   position: absolute;
-  bottom: 5%;
+  bottom: 10%;
   left: 3%;
 }
 
@@ -709,7 +709,7 @@ body.preloader-site {
   font-weight: 600;
   margin-top: 15px;
   position: absolute;
-  bottom: 5%;
+  bottom: 10%;
   left: 3%;
   color: white;
 }
