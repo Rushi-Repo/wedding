@@ -635,6 +635,7 @@ body.preloader-site {
 
 .tile {
   border-radius: 10px;
+  
 }
 
 
@@ -663,7 +664,7 @@ body.preloader-site {
 }
 
 .foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.3), rgba(48, 47, 47, 0.4)), url("../image/kshirsagar.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.3), rgba(48, 47, 47, 0.4)), url("../image/kshir.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -693,8 +694,11 @@ body.preloader-site {
   font-size: 18pt;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
-  text-align: left;
   color: white;
+  
+  position: absolute;
+  bottom: 5%;
+  left: 3%;
 }
 
 
@@ -704,7 +708,9 @@ body.preloader-site {
   font-size: 14pt;
   font-weight: 600;
   margin-top: 15px;
-  text-align: left;
+  position: absolute;
+  bottom: 5%;
+  left: 3%;
   color: white;
 }
 
