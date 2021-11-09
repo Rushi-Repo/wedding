@@ -250,6 +250,13 @@ html {
 
 .main-content .section-light.regular-section {
   padding-bottom: 80px;
+  
+}
+
+.main-content .regular-section1 {
+  padding-bottom: 80px;
+  background-image: linear-gradient(rgba(255,0,0,0),rgba(154,76,1,0.5),rgba(255,0,0,0));
+  
 }
 
 .main-content .section-light.regular-section .is-larger {
@@ -648,7 +655,7 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("../image/class.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../image/class.png");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -680,7 +687,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.3), rgba(48, 47, 47, 0.4)), url("../image/engage.JPG");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.3), rgba(48, 47, 47, 0.4)), url("../image/3.JPG");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -732,6 +739,7 @@ body.preloader-site {
 
 .section-darker1 {
   background-image: url(../image/divider-flowers-leaves.png);
+
   background-position: bottom -30px center;
   background-repeat: no-repeat;
   background-size: initial;
